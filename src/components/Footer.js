@@ -1,4 +1,6 @@
 import React from 'react'
+import './Footer.css';
+
 import {Link} from 'react-router-dom'
 export default function Footer() {
     return (
@@ -8,7 +10,7 @@ export default function Footer() {
         <div className="col s2"> </div>
 
         <div className="col s4"> 
-      <img style={{height:"100px",width:"150px",marginRight:"0px"}} className="logoimg" src="./images/orignal.png"  />
+      <img  className="logoimg foot" src="./images/orignal.png"  />
         
         </div>
         <div className="col s6"></div>
