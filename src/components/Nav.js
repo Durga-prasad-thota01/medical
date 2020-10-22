@@ -6,7 +6,7 @@ export default function Nav() {
     return (
       
       <div className="row" style={{}}>
-      <div className="col s2" > 
+      <div className   ="col s2" > 
       <Link to="/">
       <img style={{height:"100px",width:"280px",marginTop:"22px"}} className="logoimg" src="./images/orignal.png"  /> </Link>
       </div>
