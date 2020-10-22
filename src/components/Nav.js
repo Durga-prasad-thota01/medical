@@ -18,7 +18,7 @@ export default function Nav() {
         <i  style={{marginTop:"17px", marginLeft: "24px"}} class="material-icons">location_on</i>
         </div>
         <div  className="col s11"> 
-        <p style={{marginRight:"134px"}}>2 nd floor 61B,Sriram Nagar Colony, Opposite SBI,Near Chirec International School,Kondapur, Hyderabad, Telangana, INDIA ‐ 500 084.<br/>
+        <p style={{marginRight:"134px"}}>2 nd floor 61B,Sriram Nagar Colony, Opposite SBI Atm ,Near Chirec International School,Kondapur, Hyderabad, Telangana, INDIA ‐ 500 084.<br/>
         Ph: 70 36 77 0007 | 76 450 99 999 </p>
       </div>
       <div className="row " style={{margin:"0px"}}>

@@ -10,7 +10,7 @@ export default function Products() {
           <div className="row  prmar">
             <div className="col s4">
               <img className="pro" src="./images/cannulaa.png" />
-              <p style={{ fontWeight: "500" }}>Neotech RAM Cannula</p>
+              <p style={{ fontWeight: "500" }}>Neotech RAM </p>
             </div>
             <div className="col s4">
               <img className="pro" src="./images/glass.png" />
